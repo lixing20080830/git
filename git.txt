@@ -24,7 +24,7 @@ git clone https://github.com/lixing20080830/zookeeper-learning-notes.git  //从�
 git push 每次都需要输入用户名和密码是因为你采用的是 https 方式提交代码，如果采用的是 ssh 方式只需要在版本库中添加用户的
 rsa 的key就可以实现提交时无需输入用户名和密码。
  
- 设置后之后可以用下面方式复制和链接
+设置后之后可以用下面方式复制和链接
  
 git clone git@github.com:lixing20080830/dubbodemo.git
  
