@@ -15,10 +15,11 @@ git push -u origin master -f //把本地库的所有内容强行推送到远程�
 
 git push -u origin master //把本地库的所有内容推送到远程库上
 
-
 git status //查看整体变更（详细到文件名）
 
 git log //查看历史记录
+
+git clone https://github.com/lixing20080830/zookeeper-learning-notes.git  //从远程库克隆到本地库
 
 
 
