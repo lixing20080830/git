@@ -10,6 +10,8 @@ git commit -m "first commit" //把文件提交到仓库
 git remote rm origin //删除链接 
 
 git remote add origin https://github.com/lixing20080830/sharding-jdbc-mybatis.git  //关联远程仓库
+
+git pull origin master // 把本地仓库的变化连接到远程仓库主分支
  
 git push -u origin master -f //把本地库的所有内容强行推送到远程库上
 
