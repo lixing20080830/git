@@ -11,6 +11,7 @@
 192.30.255.112 github.com
 192.30.255.113 www.github.com
 192.30.255.120 nodeload.github.com
+参考资料：https://www.cnblogs.com/yangzhou33/p/8407385.html<br>
 
 git图片显示操作
 ------
@@ -32,7 +33,7 @@ git commit -m "first commit" //把文件提交到仓库<br>
 
 git remote rm origin //删除链接<br>
 
-git remote add origin https://github.com/lixing20080830/sharding-jdbc-mybatis.git  //关联远程仓库<br>
+git remote add origin https://github.com/lixing20080830/dubbodemo.git  //关联远程仓库<br>
 
 git pull origin master // 把本地仓库的变化连接到远程仓库主分支<br>
  
@@ -47,8 +48,7 @@ git log //查看历史记录<br>
 git clone https://github.com/lixing20080830/zookeeper-learning-notes.git  //从远程库克隆到本地库<br>
 
 git push 每次都需要输入用户名和密码是因为你采用的是 https 方式提交代码，如果采用的是 ssh 方式只需要在版本库中添加用户的
-rsa 的key就可以实现提交时无需输入用户名和密码。<br>
-设置后之后可以用下面方式复制和链接<br>
+rsa 的key就可以实现提交时无需输入用户名和密码。设置后之后可以用下面方式复制和链接<br>
  
 git clone git@github.com:lixing20080830/dubbodemo.git<br>
 
