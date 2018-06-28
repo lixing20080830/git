@@ -1,4 +1,8 @@
-# git
+# git和github的相关操作
+
+GitHub上README.md排版样式教程
+-----
+参考资料：https://blog.csdn.net/u012067966/article/details/50736647
 
 解决github打开速度慢的问题，好像没什么效果。
 ------
