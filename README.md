@@ -2,19 +2,19 @@
 
 GitHub上README.md排版样式教程
 -----
-参考资料：https://blog.csdn.net/u012067966/article/details/50736647
+参考资料：https://blog.csdn.net/u012067966/article/details/50736647<br>
 
 解决github打开速度慢的问题，好像没什么效果。
 ------
-修改hosts（HOSTS文件路径：C:\Windows\System32\drivers\etc\hosts）
+修改hosts（HOSTS文件路径：C:\Windows\System32\drivers\etc\hosts）<br>
 
-1.打开Dns检测|Dns查询 - 站长工具
-2.在检测输入栏中输入http://github.com官网
-3.把检测列表里的TTL值最小的IP输入到hosts里，并对应写上github官网域名。
-例如：
-192.30.255.112 github.com
-192.30.255.113 www.github.com
-192.30.255.120 nodeload.github.com
+1.打开Dns检测|Dns查询 - 站长工具<br>
+2.在检测输入栏中输入http://github.com官网<br>
+3.把检测列表里的TTL值最小的IP输入到hosts里，并对应写上github官网域名。<br>
+例如：<br>
+192.30.255.112 github.com<br>
+192.30.255.113 www.github.com<br>
+192.30.255.120 nodeload.github.com<br>
 参考资料：https://www.cnblogs.com/yangzhou33/p/8407385.html<br>
 
 git图片显示操作
