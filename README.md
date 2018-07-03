@@ -61,3 +61,8 @@ git remote add origin git@github.com:lixing20080830/dubbodemo.git<br>
 git 解决fatal: Not a git repository<br>
  
 https://blog.csdn.net/u012306714/article/details/52571596<br>
+
+### Merge branch 'master' of 解决
+
+git rebase origin/master 合并<br>
+或者参考资料:https://blog.csdn.net/qq_24569093/article/details/77834345<br>
