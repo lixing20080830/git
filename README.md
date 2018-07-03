@@ -66,3 +66,6 @@ https://blog.csdn.net/u012306714/article/details/52571596<br>
 
 git rebase origin/master 合并<br>
 或者参考资料:https://blog.csdn.net/qq_24569093/article/details/77834345<br>
+
+### git commit 报 "Changes not staged for commit"<br>
+参考资料：https://segmentfault.com/q/1010000004428943?_ea=613759<br>
