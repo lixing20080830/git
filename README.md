@@ -27,6 +27,8 @@ https://github.com/lixing20080830/BCC/blob/master/images-folder/environment.png<
 
 git命令
 ------
+touch README.md //直接新建一个文件README.md
+
 git init //把这个目录变成Git可以管理的仓库<br>
 
 git add README.md //文件添加到仓库<br>
