@@ -1,4 +1,4 @@
-# git和github操作
+# github和git操作
 
 GitHub上README.md排版样式教程
 -----
